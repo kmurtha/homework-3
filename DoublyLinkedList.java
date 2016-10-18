@@ -32,3 +32,6 @@ class Node
   public void setLinkNext (Node n)
   {
     
+
+    
+    
